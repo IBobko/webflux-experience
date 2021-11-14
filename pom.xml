@@ -11,6 +11,8 @@
     <name>Multi Chapter Simple Parent Project</name>
 
     <modules>
+        <module>webflux-server</module>
+        <module>zookeeper-example</module>
     </modules>
 
 </project>
